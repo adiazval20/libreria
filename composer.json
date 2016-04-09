@@ -1,0 +1,7 @@
+{
+  "name": "adiazval20/libreria",
+  "version": "0.0.1",
+  "require": {
+    "monolog/monolog": "1.0.*"
+  }
+}
